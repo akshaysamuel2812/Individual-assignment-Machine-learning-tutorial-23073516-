@@ -1,2 +1,4 @@
-# Individual-assignment-Machine-learning-tutorial-23073516-
+# Individual-assignment-Machine-learning-tutorial 
+-23073516-
+Akshay samuel Vedururi Rajupalem
 Individual assignment: Machine learning tutorial 
